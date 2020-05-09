@@ -1,5 +1,5 @@
 # ProjectLDBD3
-Repositório para aula de lab de bd 3 do professor Giuliano
+# Repositório para aula de lab de bd 3 do professor Giuliano
 
 Objetivo: Criar um projeto em vr de um "modelo" de tutorial para montagem de peças de avião.
 
