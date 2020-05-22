@@ -4,9 +4,9 @@ Tecnologias de realidade aumentada se tornam cada vez mais comuns. Novos celular
 
 Neste projeto idealizamos um protótipo para treinamento de montagem de peças de um avião. O programa deve instruir o usuário e permitir que este realiza a montagem da peça disponibilizando _feedback_ e uma avaliação final. O projeto será baseado em tecnologias _web_ para aproveitar da alta acessibilidade que elas tem.
 
-Um protótipo mostrando a capacidade das tecnologias já disponíveis no mercado foi criado usando a biblioteca [WebVR][1] e pode ser acessado [aqui][2]
+Um protótipo mostrando a capacidade das tecnologias já disponíveis no mercado foi criado usando a biblioteca [WebVR][1] e pode ser acessado [aqui][2] ou clicando a imagem abaixo.
 
-![Captura de tela.](screenshot.png "Visualização 3D de avião em hangar usando WebVR.")
+[![Captura de tela.](screenshot.png "Visualização 3D de avião em hangar usando WebVR.")][2]
 
 ---
 
