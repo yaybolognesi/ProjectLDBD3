@@ -19,4 +19,4 @@ Membros do grupo:
 - Ruan Ramon
 
 [1]: https://webvr.info/
-[2]: https://codepen.io/Medlinn/pen/WNvXjoE
+[2]: https://project-ldbd3-team7.glitch.me
