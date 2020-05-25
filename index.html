@@ -1,0 +1,40 @@
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <title>Projeto VR Team 7</title>
+  <meta name="description" content="Projeto VR Team 7">
+  <script src="https://aframe.io/releases/1.0.4/aframe.min.js"></script>
+
+</head>
+
+<body>
+  <a-scene background="color: #00FFFF">
+
+    <a-assets>
+
+      <audio id="click-sound" src="https://cdn.aframe.io/360-image-gallery-boilerplate/audio/click.ogg"></audio>
+
+      <!-- Background -->
+      <img id="city" src="https://cdn.aframe.io/360-image-gallery-boilerplate/img/city.jpg">
+      <!-- Chamando os objetos 3d -->
+      <a-asset-item id="hangar" src="https://raw.githubusercontent.com/yaybolognesi/ProjectLDBD3/master/Modelos_Cenario/Hangar.gltf" rotation="0 0 0" scale="1 1 1" visible="true" </a-asset-item>
+
+        <a-asset-item id="plane" src="https://raw.githubusercontent.com/yaybolognesi/ProjectLDBD3/master/Modelos_Cenario/plane.gltf" rotation="0 0 0" scale="0 0 0" visible="true" </a-asset-item>
+    </a-assets>
+
+    <!-- Colocando o background e os objetos 3d -->
+    <a-sky id="image-360" radius="200" src="#city" position="0 70 0"></a-sky>
+
+    <a-gltf-model src="#plane" shadow="cast: true;" position="-1.5 1 -7" scale="0.006 0.006 0.006" rotation="-90 0 -100"> </a-gltf-model>
+
+    <a-gltf-model src="#hangar" shadow="cast: true;" position="0 0.1 -7"> </a-gltf-model>
+
+    <a-camera>
+      <a-cursor id="cursor" animation__click="property: scale; from: 0.1 0.1 0.1; to: 1 1 1; easing: easeInCubic; dur: 150; startEvents: click" animation__clickreset="property: scale; to: 0.1 0.1 0.1; dur: 1; startEvents: animationcomplete__click" animation__fusing="property: scale; from: 1 1 1; to: 0.1 0.1 0.1; easing: easeInCubic; dur: 150; startEvents: fusing"></a-cursor>
+    </a-camera>
+
+  </a-scene>
+</body>
+
+</html>
