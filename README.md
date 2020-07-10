@@ -8,9 +8,9 @@ Um protótipo mostrando a capacidade das tecnologias já disponíveis no mercado
 
 [![Captura de tela.](ReadmePics/tetris.png "Visualização 3D de montagem com tetris.")][1]
 
-[![Captura de tela.](ReadmePics/transmission.png "Visualização 3D de montagem com transmissão.")][2]
+[![Captura de tela.](ReadmePics/Transmission.png "Visualização 3D de montagem com transmissão.")][2]
 
-[![Captura de tela.](ReadmePics/gears.png "Visualização 3D de montagem com engrenagens.")][3]
+[![Captura de tela.](ReadmePics/Gears.png "Visualização 3D de montagem com engrenagens.")][3]
 
 ---
 
