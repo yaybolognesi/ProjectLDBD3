@@ -4,9 +4,13 @@ Tecnologias de realidade aumentada se tornam cada vez mais comuns. Novos celular
 
 Neste projeto idealizamos um protótipo para treinamento de montagem de peças de um avião. O programa deve instruir o usuário e permitir que este realiza a montagem da peça disponibilizando _feedback_ e uma avaliação final. O projeto será baseado em tecnologias _web_ para aproveitar da alta acessibilidade que elas tem.
 
-Um protótipo mostrando a capacidade das tecnologias já disponíveis no mercado foi criado usando a biblioteca [WebVR][1] e pode ser acessado [aqui][2] ou clicando a imagem abaixo.
+Um protótipo mostrando a capacidade das tecnologias já disponíveis no mercado foi criado usando a biblioteca WebVR e pode ser acessado [aqui][2] ou clicando a imagem abaixo.
 
-[![Captura de tela.](screenshot.png "Visualização 3D de avião em hangar usando WebVR.")][2]
+[![Captura de tela.](ReadmePics/tetris.png "Visualização 3D de montagem com tetris.")][1]
+
+[![Captura de tela.](ReadmePics/transmission.png "Visualização 3D de montagem com transmissão.")][2]
+
+[![Captura de tela.](ReadmePics/gears.png "Visualização 3D de montagem com engrenagens.")][3]
 
 ---
 
@@ -18,5 +22,6 @@ Membros do grupo:
 - Pedro Minicz
 - Ruan Ramon
 
-[1]: https://webvr.info/
-[2]: https://project-ldbd3-team7.glitch.me
+[1]: https://pedrominicz.github.io/model/tetris/
+[2]: https://pedrominicz.github.io/model/transmission/
+[3]: https://pedrominicz.github.io/model/gears/
