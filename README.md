@@ -24,4 +24,4 @@ Membros do grupo:
 
 [1]: https://pedrominicz.github.io/model/tetris/
 [2]: https://pedrominicz.github.io/model/transmission/
-[3]: https://pedrominicz.github.io/model/gears/
+[3]: https://pedrominicz.github.io/model/gear/
