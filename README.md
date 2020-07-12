@@ -4,6 +4,8 @@ Tecnologias de realidade aumentada se tornam cada vez mais comuns. Novos celular
 
 Neste projeto idealizamos um protótipo para treinamento de montagem de peças de um avião. O programa deve instruir o usuário e permitir que este realiza a montagem da peça disponibilizando _feedback_ e uma avaliação final. O projeto será baseado em tecnologias _web_ para aproveitar da alta acessibilidade que elas tem.
 
+Uma breve apresentação explicando a motivação por trás do projeto pode ser encontrada [aqui][0].
+
 Um protótipo mostrando a capacidade das tecnologias já disponíveis no mercado foi criado usando a biblioteca WebVR e pode ser acessado [aqui][2] ou clicando a imagem abaixo.
 
 [![Captura de tela.](ReadmePics/tetris.png "Visualização 3D de montagem com tetris.")][1]
@@ -22,6 +24,7 @@ Membros do grupo:
 - Pedro Minicz
 - Ruan Ramon
 
+[0]: Automatizando Treinamentos em VR.pdf
 [1]: https://pedrominicz.github.io/model/tetris/
 [2]: https://pedrominicz.github.io/model/transmission/
 [3]: https://pedrominicz.github.io/model/gear/
