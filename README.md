@@ -24,7 +24,7 @@ Membros do grupo:
 - Pedro Minicz
 - Ruan Ramon
 
-[0]: Automatizando Treinamentos em VR.pdf
+[0]: Automatizando_Treinamentos_em_VR.pdf
 [1]: https://pedrominicz.github.io/model/tetris/
 [2]: https://pedrominicz.github.io/model/transmission/
 [3]: https://pedrominicz.github.io/model/gear/
